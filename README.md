@@ -10,6 +10,6 @@ https://www.youtube.com/watch?v=eNsDjKKLFCA
 https://github.com/subicura/docker-jenkins-workshop.git
 
 ## 
-[토크ON 세미나] git commit polling 테스트를 위해 제 스토리지에 추가하였습니다.
+[토크ON 세미나] git commit polling 테스트를 위해 제 레파지토리에 추가하였습니다.
  
 
